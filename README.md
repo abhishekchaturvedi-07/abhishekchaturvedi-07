@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaturvedi</h1>
 <h3 align="center">🛠️ Senior Technical Architect | UI Design Maestro | Code Artisan - from 🇮🇳</h3>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="coding"/>
+<img align="right" alt="coding" src="https://github-production-user-asset-6210df.s3.amazonaws.com/15727082/279119280-d0c64edd-d2d8-4ecf-a8f2-4dc7bb697d18.gif" />
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchaturvedi-07" alt="abhishekchaturvedi-07" /></a> </p>
 
 - 🔭 I’m currently working on [Boiler plate for Next Js Application with Node Microservices along side NATS Streaming Server Event Bus with a lot of structured authenticated secure system build from docker and hosted in Google Kuberbetes Platform and exposed to outside world!](https://github.com/abhishekchaturvedi-07/nextjs-nodejs-microservice-gcp-stripe-natsserver-npmodule-mongodb-jwt-redis-docker-k8s-clouddply)
