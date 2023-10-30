@@ -5,7 +5,7 @@
 
 
 
-
+<br />
 - 🔭 I’m currently working on [Boiler plate for Next Js Application with Node Microservices along side NATS Streaming Server Event Bus with a lot of structured authenticated secure system build from docker and hosted in Google Kuberbetes Platform and exposed to outside world!](https://github.com/abhishekchaturvedi-07/nextjs-nodejs-microservice-gcp-stripe-natsserver-npmodule-mongodb-jwt-redis-docker-k8s-clouddply)
 
 - 🌱 I’m currently learning for **AWS Solution Architect Certification**
@@ -18,8 +18,9 @@
 
 - ⚡ Fun fact **I am an international model and Bollywood Actor and SMM Influencer too 😉**
 
-< br />
+<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchaturvedi-07" alt="abhishekchaturvedi-07" /></a> </p>
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
