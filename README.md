@@ -5,7 +5,7 @@
 
 
 
-<br />
+
 - 🔭 I’m currently working on [Boiler plate for Next Js Application with Node Microservices along side NATS Streaming Server Event Bus with a lot of structured authenticated secure system build from docker and hosted in Google Kuberbetes Platform and exposed to outside world!](https://github.com/abhishekchaturvedi-07/nextjs-nodejs-microservice-gcp-stripe-natsserver-npmodule-mongodb-jwt-redis-docker-k8s-clouddply)
 
 - 🌱 I’m currently learning for **AWS Solution Architect Certification**
