@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaturvedi</h1>
 <h3 align="center">🛠️ Senior Technical Architect | UI Design Maestro | Code Artisan - from 🇮🇳</h3> 
-<h3 align="center">🛠️ Certified - AWS Solution Architect | Certified - Adobe Expert - AEM Sites </h3> 
+<h3 align="center">🎓 Certified - AWS Solution Architect | Certified - Adobe Expert - AEM Sites </h3> 
 <img align="right" alt="coding" src="https://github-production-user-asset-6210df.s3.amazonaws.com/15727082/279119280-d0c64edd-d2d8-4ecf-a8f2-4dc7bb697d18.gif" />
 
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Boiler plate for Next Js Application with Node Microservices along side NATS Streaming Server Event Bus with a lot of structured authenticated secure system build from docker and hosted in Google Kuberbetes Platform and exposed to outside world!](https://github.com/abhishekchaturvedi-07/nextjs-nodejs-microservice-gcp-stripe-natsserver-npmodule-mongodb-jwt-redis-docker-k8s-clouddply)
 
-- 🌱 I’m currently learning for **AWS Solution Architect Certification**
+- 🌱 I’ve currently leveraging the power of  **Cloud native environment and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekchaturvedi-07/](https://github.com/abhishekchaturvedi-07/)
 
